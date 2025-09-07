@@ -5,9 +5,9 @@
 
 ### 👨‍💻 About Me
 
-I'm a student with a growing curiosity for how things work behind the screen — especially in software.  
-I enjoy learning by building, whether it's simple scripts, small web apps, or experimenting with backend systems.  
-My current focus is on understanding the fundamentals, writing clean code, and gradually connecting the dots across different technologies.
+As a student, I'm fascinated by what makes software work. 
+I find the best way to learn is by getting hands-on, so I enjoy building small projects to see concepts in action.
+Right now, my main goal is to build a strong foundation and understand how different technologies connect.
 
 ---
 
