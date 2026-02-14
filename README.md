@@ -5,9 +5,9 @@
 
 ### 👨‍💻 About Me
 
-I'm fascinated by what makes software work.
-I find the best way to learn is by getting hands-on, so I enjoy building small projects to see concepts in action.
-Right now, my main goal is to build a strong foundation and understand how different technologies work.
+I'm fascinated by what makes software work the way it does, logic and technologies behind it.
+I find it best to learn by getting hands-on, so I enjoy building small projects to see concepts in action.
+Right now, my main goal is to explore and understand how different technologies.
 
 ---
 
