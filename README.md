@@ -7,7 +7,7 @@
 
 I'm fascinated by what makes software work the way it does, logic and technologies behind it.
 I find it best to learn by getting hands-on, so I enjoy building small projects to see concepts in action.
-Right now, my main goal is to explore and understand how different technologies.
+Right now, my main goal is to explore and understand different technologies.
 
 ---
 
